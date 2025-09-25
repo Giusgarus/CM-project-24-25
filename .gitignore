@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# MATLAB / Octave temporary files
+*.asv
+*.m~
+*.mex*
+octave-workspace
+
+# Logs and cache
+*.log
